@@ -1,0 +1,114 @@
+{
+  "input": "small_forms/fullparent_m7_net_representatives.txt",
+  "input_sha256": "b25a920bc91974cb4a7afe89cdc49d3a741a5c68ae0e0517077f39802e40fbff",
+  "complete": true,
+  "polar_orbits": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "membership": [
+    {
+      "input_line": 1,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 2,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 3,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 4,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 5,
+      "polar_orbit": 5
+    },
+    {
+      "input_line": 6,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 7,
+      "polar_orbit": 5
+    },
+    {
+      "input_line": 8,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 9,
+      "polar_orbit": 5
+    },
+    {
+      "input_line": 10,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 11,
+      "polar_orbit": 6
+    },
+    {
+      "input_line": 12,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 13,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 14,
+      "polar_orbit": 6
+    },
+    {
+      "input_line": 15,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 16,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 17,
+      "polar_orbit": 6
+    },
+    {
+      "input_line": 18,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 19,
+      "polar_orbit": 8
+    },
+    {
+      "input_line": 20,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 21,
+      "polar_orbit": 8
+    },
+    {
+      "input_line": 22,
+      "polar_orbit": 6
+    },
+    {
+      "input_line": 23,
+      "polar_orbit": 5
+    },
+    {
+      "input_line": 24,
+      "polar_orbit": 7
+    }
+  ],
+  "match": "exact canonical bytes"
+}

@@ -1,0 +1,7 @@
+GAP 4.15.1; SmallGrp 1.5.4
+order=8 class2_SR=2 stem_SR=2
+order=16 class2_SR=2 stem_SR=0
+order=32 class2_SR=7 stem_SR=5
+order=64 class2_SR=10 stem_SR=3
+PASS: 79 exact-character comparisons; 
+79 reconstruction checks; 4 streamed refinements.

@@ -1,0 +1,9 @@
+NEW 1 m 6 r 4 Qorbits 6 seconds 0.146
+PROGRESS 100 polar_orbits 1
+PROGRESS 200 polar_orbits 1
+NEW 2 m 6 r 4 Qorbits 7 seconds 3.513
+NEW 3 m 6 r 4 Qorbits 6 seconds 3.864
+PROGRESS 300 polar_orbits 3
+NEW 4 m 6 r 4 Qorbits 6 seconds 4.897
+NEW 5 m 6 r 4 Qorbits 3 seconds 5.969
+COMPLETE polar_orbits 5 group_orbits 28 seconds 5.969

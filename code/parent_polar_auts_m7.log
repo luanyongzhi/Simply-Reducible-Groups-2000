@@ -1,0 +1,9 @@
+PARENT 1 B (1, 2) generators 17 sec 0.515
+PARENT 2 B (1, 2050) generators 15 sec 1.035
+PARENT 3 B (1, 2058) generators 11 sec 1.758
+PARENT 4 B (1, 40962) generators 9 sec 3.014
+PARENT 5 B (1, 40994) generators 11 sec 4.307
+PARENT 6 B (69, 274) generators 10 sec 5.699
+PARENT 7 B (69, 262178) generators 8 sec 6.144
+PARENT 8 B (69, 262210) generators 10 sec 7.552
+COMPLETE 8 parents

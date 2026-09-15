@@ -1,0 +1,30 @@
+#E  component `License' must be bound to a nonempty string containing an SPDX \
+ID
+#E Validation of package transgrp from /workspace/scratch/0c0ed47018b5/gap_run\
+time/deb/usr/share/gap/pkg/TransGrp/ failed
+GAP 4.15.1
+verified=25
+verified=50
+verified=75
+verified=100
+verified=125
+verified=150
+verified=175
+verified=200
+verified=225
+verified=250
+verified=275
+verified=300
+verified=325
+verified=350
+verified=375
+verified=400
+verified=425
+verified=450
+verified=475
+verified=500
+verified=525
+verified=550
+verified=575
+PASS: all 
+581 presentations reconstructed, metadata matched, Wigner equality verified.

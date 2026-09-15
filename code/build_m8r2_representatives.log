@@ -1,0 +1,22 @@
+PASS 1 R310 inv=431 k=325
+PASS 2 R310 inv=143 k=325
+PASS 3 R310 inv=335 k=325
+PASS 4 R310 inv=111 k=325
+PASS 5 R220 inv=399 k=289
+PASS 6 R220 inv=239 k=289
+PASS 7 R220 inv=143 k=289
+PASS 8 R211 inv=383 k=280
+PASS 9 R211 inv=191 k=280
+PASS 10 R211 inv=255 k=280
+PASS 11 R211 inv=255 k=280
+PASS 12 R211 inv=191 k=280
+PASS 13 R211 inv=383 k=280
+PASS 14 S1S1R1 inv=383 k=280
+PASS 15 S1S1R1 inv=383 k=280
+PASS 16 S1S1R1 inv=255 k=280
+PASS 17 S1S1R1 inv=191 k=280
+PASS 18 S1S1R1 inv=255 k=280
+COMPLETE: all 
+18
+  representatives independently pass both Wigner moment identities in GAP 4.15\
+.1.

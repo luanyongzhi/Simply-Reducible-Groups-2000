@@ -1,0 +1,10 @@
+parent=1 id=7540510 verified_subgroup_generators=23 SR_extension_orbits=1 SR_extension_mass=256
+parent=2 id=7535895 verified_subgroup_generators=13 SR_extension_orbits=2 SR_extension_mass=40
+parent=3 id=7536911 verified_subgroup_generators=14 SR_extension_orbits=2 SR_extension_mass=28
+parent=4 id=7538135 verified_subgroup_generators=16 SR_extension_orbits=2 SR_extension_mass=28
+parent=5 id=7577399 verified_subgroup_generators=10 SR_extension_orbits=1 SR_extension_mass=2
+parent=6 id=7606661 verified_subgroup_generators=5 SR_extension_orbits=0 SR_extension_mass=0
+parent=7 id=7640345 verified_subgroup_generators=4 SR_extension_orbits=2 SR_extension_mass=3
+parent=8 id=8840079 verified_subgroup_generators=1 SR_extension_orbits=0 SR_extension_mass=0
+parent=9 id=8841562 verified_subgroup_generators=1 SR_extension_orbits=1 SR_extension_mass=1
+RESULT m=6 subgroup_orbit_representatives=11 coordinate_distinct_representatives=9 SR_extension_mass=358 elapsed_seconds=0.0308913

@@ -1,0 +1,28 @@
+{
+  "source_sha256": "62780838b48d60427a7a2aee1c1cc66d2081ecb6a3902fcd4416b5d21142407a",
+  "twice_odd_orders_checked": 500,
+  "four_odd_orders_checked": 250,
+  "four_odd_records": 654,
+  "abelian_hall_records": 651,
+  "exceptions": [
+    {
+      "order": 300,
+      "f": 6,
+      "h": 5,
+      "excess": 1
+    },
+    {
+      "order": 1500,
+      "f": 11,
+      "h": 10,
+      "excess": 1
+    },
+    {
+      "order": 1620,
+      "f": 21,
+      "h": 20,
+      "excess": 1
+    }
+  ],
+  "all_available_doubling_inequalities_pass": true
+}

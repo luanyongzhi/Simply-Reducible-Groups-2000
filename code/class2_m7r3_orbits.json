@@ -1,0 +1,852 @@
+{
+  "complete_for_supplied_input": true,
+  "input": "small_forms/subgroup_m7_net_representatives.txt",
+  "input_sha256": "9f6a9eb256bd1d48c78412707969aba2855d72f250294e1bfbab5eda8bfcba9f",
+  "pynauty_version": "2.8.8.1",
+  "elapsed_seconds": 71.3015852919998,
+  "polar_orbits": [
+    {
+      "polar_orbit": 1,
+      "m": 7,
+      "r": 3,
+      "B": [
+        1,
+        2,
+        41984
+      ],
+      "supplied_affine_dimension": 7,
+      "graph_vertices": 2809,
+      "polar_certificate_sha256": "853e890c31e671d4a2c8e0e4809f88d31966a55f4c912b14181b593cad1fb238",
+      "first_input_line": 1,
+      "affine_dimension": 7,
+      "candidate_count": 128,
+      "stabilizer_generators": 7,
+      "graph_aut_order_scientific": [
+        18432.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 0,
+          "size": 12,
+          "involutions": 383,
+          "pair_certificate_sha256": "8b64e4d4d497bef59b6309e8162decb37ed7ebee296ed60ee3ded2a394db1a03"
+        },
+        {
+          "Q": 136,
+          "size": 12,
+          "involutions": 383,
+          "pair_certificate_sha256": "481c876392cd104b7f32dd732b8ff82af58034c6b41afe3c49fc381140198f39"
+        },
+        {
+          "Q": 18432,
+          "size": 4,
+          "involutions": 255,
+          "pair_certificate_sha256": "cead18cf5224e6a806b2821e76c6a3bab37882ef58ef9af09f2dc308929ec298"
+        },
+        {
+          "Q": 18568,
+          "size": 4,
+          "involutions": 255,
+          "pair_certificate_sha256": "c1d01f66016161f7e5a489232a1d9fa515b46a5bfb5175bb62267ed90ca9025d"
+        },
+        {
+          "Q": 131074,
+          "size": 24,
+          "involutions": 383,
+          "pair_certificate_sha256": "b635df1d4a030337ff19faadafccceeda3c1856be295a6387935c537aa955244"
+        },
+        {
+          "Q": 131210,
+          "size": 48,
+          "involutions": 63,
+          "pair_certificate_sha256": "ee5aa035ec09315dd43b888bb997cca6710d23888b2cb31ca0f041bd3f00ae0d"
+        },
+        {
+          "Q": 131330,
+          "size": 24,
+          "involutions": 255,
+          "pair_certificate_sha256": "f30dcf2610432607d9b9346cb501421b0ec495ae944d4d15da59321a13a3e6e7"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 2,
+      "m": 7,
+      "r": 3,
+      "B": [
+        1,
+        2,
+        393216
+      ],
+      "supplied_affine_dimension": 7,
+      "graph_vertices": 2809,
+      "polar_certificate_sha256": "2004ef59d6c400419d2835725be154e08e0f8fee44838abffbbb5fe8d9d0fa49",
+      "first_input_line": 2,
+      "affine_dimension": 7,
+      "candidate_count": 128,
+      "stabilizer_generators": 9,
+      "graph_aut_order_scientific": [
+        17280.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 0,
+          "size": 40,
+          "involutions": 399,
+          "pair_certificate_sha256": "4bc292d418bd58d4655ab9158ba42b0918346fac7f12b4cf7af63fb11dd4c3a2"
+        },
+        {
+          "Q": 136,
+          "size": 10,
+          "involutions": 399,
+          "pair_certificate_sha256": "a18366165eb0b5a5023f6b2420b001b6c417a20d60a113ef126ac9bf7f8c0658"
+        },
+        {
+          "Q": 137,
+          "size": 30,
+          "involutions": 79,
+          "pair_certificate_sha256": "252780e1dcb8496a5713d240c372e1d1d0323d04e740261c0acef17796271442"
+        },
+        {
+          "Q": 147456,
+          "size": 24,
+          "involutions": 239,
+          "pair_certificate_sha256": "1562d5bffd3d0a62aa84e75ef71338c49bf1248f7a4a711b212bf2f1ad48e1fd"
+        },
+        {
+          "Q": 147592,
+          "size": 6,
+          "involutions": 239,
+          "pair_certificate_sha256": "b33a7edf1c6d5bebcaa435d0825bb8bf2915e44a2a3dac28583426218c9411d1"
+        },
+        {
+          "Q": 147593,
+          "size": 18,
+          "involutions": 47,
+          "pair_certificate_sha256": "708a057b8b73453e5edc1d7680d0af06a9847774b278f89f65b18e2daaca3362"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 3,
+      "m": 7,
+      "r": 3,
+      "B": [
+        1,
+        2050,
+        262176
+      ],
+      "supplied_affine_dimension": 7,
+      "graph_vertices": 2809,
+      "polar_certificate_sha256": "0fe7e3db135c010a993b97ddea65b55b2d74af851d7f6d3d711af1f27b2f6670",
+      "first_input_line": 3,
+      "affine_dimension": 7,
+      "candidate_count": 128,
+      "stabilizer_generators": 7,
+      "graph_aut_order_scientific": [
+        1152.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 0,
+          "size": 36,
+          "involutions": 383,
+          "pair_certificate_sha256": "3a04308205869778779c0690af64461dab9192ac7437b1b96cccaed4e2ad0dfc"
+        },
+        {
+          "Q": 1154,
+          "size": 12,
+          "involutions": 127,
+          "pair_certificate_sha256": "2673a0f5cfdfce8391f751b6aa04ed550b168c1ddd90546a68652ef2da47a9a1"
+        },
+        {
+          "Q": 147456,
+          "size": 12,
+          "involutions": 191,
+          "pair_certificate_sha256": "3691ad154579a8fc0a4dc153bd8f376f81b999f976265a2e3cbd486a1487e00b"
+        },
+        {
+          "Q": 148610,
+          "size": 4,
+          "involutions": 63,
+          "pair_certificate_sha256": "15ca6c4eaada4420da411a175ee9c2c0de03f80a4f1825d8e2629854c45b6288"
+        },
+        {
+          "Q": 1048584,
+          "size": 12,
+          "involutions": 383,
+          "pair_certificate_sha256": "0993022ce2452fbb0fe1fca06d6cf32747f2d5896b8093014862364c6ea5908c"
+        },
+        {
+          "Q": 1048585,
+          "size": 24,
+          "involutions": 95,
+          "pair_certificate_sha256": "dcd9e06a1e9b0d53163e926e30cb4cc80ed8dad146c9ef1ca54e399d7ed8efd5"
+        },
+        {
+          "Q": 1048588,
+          "size": 12,
+          "involutions": 191,
+          "pair_certificate_sha256": "3c4908006f548ba1be9c610e6377583973fc1527cc0d13e96c3fa212632cd4e4"
+        },
+        {
+          "Q": 1049738,
+          "size": 4,
+          "involutions": 127,
+          "pair_certificate_sha256": "876d298bf2d88690f4a06e770d950f61dc5949166df4f6c9f2033a10f15b3da0"
+        },
+        {
+          "Q": 1049739,
+          "size": 8,
+          "involutions": 31,
+          "pair_certificate_sha256": "3f6b0b68a143fdbe3609136c5da74d35f647b9594a4ef32020a21a710064b26c"
+        },
+        {
+          "Q": 1049742,
+          "size": 4,
+          "involutions": 63,
+          "pair_certificate_sha256": "51e08d6c37a1c3569beacdb652ca030f7250385cbfd5ae79be63fddbe1df7d06"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 4,
+      "m": 7,
+      "r": 3,
+      "B": [
+        1,
+        2058,
+        8224
+      ],
+      "supplied_affine_dimension": 7,
+      "graph_vertices": 2809,
+      "polar_certificate_sha256": "a5a758da40163109f4e88ce8415c5645fb34e4c5d6058832fa49069af7d43f4f",
+      "first_input_line": 4,
+      "affine_dimension": 7,
+      "candidate_count": 128,
+      "stabilizer_generators": 10,
+      "graph_aut_order_scientific": [
+        6144.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 0,
+          "size": 32,
+          "involutions": 383,
+          "pair_certificate_sha256": "e709a2b296c0bf8163cee4f289af1d30b9f9eb8cd138f2af27fe9bb5e19a8148"
+        },
+        {
+          "Q": 132096,
+          "size": 8,
+          "involutions": 383,
+          "pair_certificate_sha256": "acd3de943b05fbe3f2547bd82bb40bbdb6dff231f0283ad4065935d5811e86aa"
+        },
+        {
+          "Q": 132224,
+          "size": 24,
+          "involutions": 127,
+          "pair_certificate_sha256": "982250aecf49f5280b0f6b5261218d1313cf548df7acbfa5b96f086acc688225"
+        },
+        {
+          "Q": 1056776,
+          "size": 8,
+          "involutions": 383,
+          "pair_certificate_sha256": "0097c4c69c73ece2804725f3d4398e47a02270a49098b18f5757fef477257680"
+        },
+        {
+          "Q": 1056777,
+          "size": 32,
+          "involutions": 63,
+          "pair_certificate_sha256": "7c99002dc6a699c2a1c61cf363614b9b7e5abece0ebc7e27b57b13d740005bd5"
+        },
+        {
+          "Q": 1056778,
+          "size": 24,
+          "involutions": 127,
+          "pair_certificate_sha256": "a652194ba1a9bc4e5e50076f4ea4cff665a58553a17a00f45f308c543d6c706a"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 5,
+      "m": 7,
+      "r": 3,
+      "B": [
+        1,
+        2058,
+        263168
+      ],
+      "supplied_affine_dimension": 7,
+      "graph_vertices": 2809,
+      "polar_certificate_sha256": "799328b736064c31cef7d21d9489d75d4be65eb0cf5078ff7cf4b62df072e94a",
+      "first_input_line": 5,
+      "affine_dimension": 7,
+      "candidate_count": 128,
+      "stabilizer_generators": 6,
+      "graph_aut_order_scientific": [
+        192.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 0,
+          "size": 12,
+          "involutions": 351,
+          "pair_certificate_sha256": "74ef4606796fbc7ae4afab7dc5fee487e0607f44b5b894d49330387bccd8dc1a"
+        },
+        {
+          "Q": 1154,
+          "size": 4,
+          "involutions": 159,
+          "pair_certificate_sha256": "805a7a2c89ecaa26f118bdb6b89abf99c0fe9814c2c21818c21826711794fc7b"
+        },
+        {
+          "Q": 8200,
+          "size": 12,
+          "involutions": 351,
+          "pair_certificate_sha256": "53385cc67eae4464c6253d941e778afa3c7a4abbbfff403a72cd7c0d000ac570"
+        },
+        {
+          "Q": 9354,
+          "size": 4,
+          "involutions": 159,
+          "pair_certificate_sha256": "98c4f95ff69aeb3b73fbf1becb3185d3806e595f1ec693d1ddf01d60273e2b0c"
+        },
+        {
+          "Q": 131074,
+          "size": 6,
+          "involutions": 351,
+          "pair_certificate_sha256": "8b5c31e731a3ce2502f3c6cd3a819560f5bc65ce2b3563adb705e3e91ad63d73"
+        },
+        {
+          "Q": 132224,
+          "size": 2,
+          "involutions": 159,
+          "pair_certificate_sha256": "7e729a412c2215b1a4259127e5c13daadcfe3133aa20c3fd671569fb20408cfa"
+        },
+        {
+          "Q": 139274,
+          "size": 6,
+          "involutions": 159,
+          "pair_certificate_sha256": "72d82947e7d1690ffc2c3e7b9942d5eaa74bfd3c0df447267053024cab78e583"
+        },
+        {
+          "Q": 140424,
+          "size": 2,
+          "involutions": 351,
+          "pair_certificate_sha256": "9ace389c13dc5b53ff36faaa3372e2ebb4c54994b77bbcf33800c5e9278b0947"
+        },
+        {
+          "Q": 147458,
+          "size": 6,
+          "involutions": 159,
+          "pair_certificate_sha256": "d3aa0e73fd3d4ea5c81789ad060f72a7b0a7389938928e8f7cb2a4e5296cfefe"
+        },
+        {
+          "Q": 148608,
+          "size": 2,
+          "involutions": 95,
+          "pair_certificate_sha256": "f151a10f70e8a8fec2d13a770b3fde2e38841200d17cc64ce819a8e70b08b0dd"
+        },
+        {
+          "Q": 155658,
+          "size": 6,
+          "involutions": 95,
+          "pair_certificate_sha256": "4acfe906eb5f4aea3dd0e8241aa4661f109b1720c3d31df24729dce0712f19c3"
+        },
+        {
+          "Q": 156808,
+          "size": 2,
+          "involutions": 159,
+          "pair_certificate_sha256": "95db4d2d4a074310a2cc9fc31dc0d3a98187681eb9d7948eaa42db3b00d1e60f"
+        },
+        {
+          "Q": 1048577,
+          "size": 12,
+          "involutions": 351,
+          "pair_certificate_sha256": "7babaa2b7d9f7fe76d95e283be70bf081077f7c42b3986ef80ce6e0ec13e98f2"
+        },
+        {
+          "Q": 1048609,
+          "size": 12,
+          "involutions": 159,
+          "pair_certificate_sha256": "02f0fdeb5abdaf23cbf0f85e9875a056a88961e09907e0aa6a75665718cd2335"
+        },
+        {
+          "Q": 1049731,
+          "size": 4,
+          "involutions": 159,
+          "pair_certificate_sha256": "56466476af9d3406a4ba4553b39e6c0383a3e6036cf40c0f73eda3f8a16266ea"
+        },
+        {
+          "Q": 1049763,
+          "size": 4,
+          "involutions": 95,
+          "pair_certificate_sha256": "dfb3e8fa2ed6012f07a170c910eae34f0f0a551bfdec96cd34026703546031f0"
+        },
+        {
+          "Q": 1056777,
+          "size": 24,
+          "involutions": 63,
+          "pair_certificate_sha256": "2c8c145c0dc10b7e240e5e2e386d9c67ac667ec27148b229da311a406e860051"
+        },
+        {
+          "Q": 1057931,
+          "size": 8,
+          "involutions": 63,
+          "pair_certificate_sha256": "0a31984c9feb3b24f86ea487699054f5aaf7bd1e7e9ef7a78c838c2249708d4b"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 6,
+      "m": 7,
+      "r": 3,
+      "B": [
+        1,
+        40962,
+        8224
+      ],
+      "supplied_affine_dimension": 7,
+      "graph_vertices": 2809,
+      "polar_certificate_sha256": "7fc1d3fc4e2dbd15226e79cdc9d5ec928d0a9f45c3e69512bd70629ec1911fb7",
+      "first_input_line": 11,
+      "affine_dimension": 7,
+      "candidate_count": 128,
+      "stabilizer_generators": 7,
+      "graph_aut_order_scientific": [
+        576.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 0,
+          "size": 36,
+          "involutions": 367,
+          "pair_certificate_sha256": "d53f8673ddb2294fe3b6fd0bbc9cbe5a39c664926bfee0f14506f14acd02d91a"
+        },
+        {
+          "Q": 9216,
+          "size": 24,
+          "involutions": 143,
+          "pair_certificate_sha256": "99a0fe861cf0d4147717b33784750a8ba98b97ff41057793c5be681a1de3c972"
+        },
+        {
+          "Q": 206210,
+          "size": 4,
+          "involutions": 111,
+          "pair_certificate_sha256": "34d34204525cea8d83f5add9c47eede7ecc14c23e906d89ff42c0efacb64399f"
+        },
+        {
+          "Q": 1048712,
+          "size": 9,
+          "involutions": 367,
+          "pair_certificate_sha256": "7ec190423a6b93e845de9d649b82d7d48b1487ed4498aeaedf33d1c718edfaaa"
+        },
+        {
+          "Q": 1048713,
+          "size": 18,
+          "involutions": 79,
+          "pair_certificate_sha256": "04ac7bd277191c6563009d9559f75207b5a46c0d0a4de21c04d23b0149c4afdf"
+        },
+        {
+          "Q": 1048716,
+          "size": 9,
+          "involutions": 111,
+          "pair_certificate_sha256": "8e4b19d47bc3400c75c47864956072841e531cfdd9e577b2533053843645d133"
+        },
+        {
+          "Q": 1057928,
+          "size": 6,
+          "involutions": 143,
+          "pair_certificate_sha256": "b7147ad93ace99e49655c1f3c263b1396d7bec0d4781e3f96459bc4ddb0ae1c1"
+        },
+        {
+          "Q": 1057929,
+          "size": 12,
+          "involutions": 47,
+          "pair_certificate_sha256": "42b73234f56aaea79cb8c45ed60284eb32fd5be813b54cd5791bd4bd1aa4761e"
+        },
+        {
+          "Q": 1057932,
+          "size": 6,
+          "involutions": 143,
+          "pair_certificate_sha256": "609d3ce01f3696937370af66d8a8be06e3a7e027ef96b8b70819d0a601d63b15"
+        },
+        {
+          "Q": 1254538,
+          "size": 1,
+          "involutions": 367,
+          "pair_certificate_sha256": "0d8d2f4d37a957db56c167d1889bfeca6151c48ed8474e83674cc0f82df6dfab"
+        },
+        {
+          "Q": 1254539,
+          "size": 2,
+          "involutions": 79,
+          "pair_certificate_sha256": "ba1b04db654df39fdfee5ac22e4920fb7da874213f369f4ac96f182e4f08d388"
+        },
+        {
+          "Q": 1254542,
+          "size": 1,
+          "involutions": 111,
+          "pair_certificate_sha256": "29ee77e13640f1d9674cc194584ff64ad5ec6d0d02fee2da5cde8184fed4c347"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 7,
+      "m": 7,
+      "r": 3,
+      "B": [
+        69,
+        262210,
+        16488
+      ],
+      "supplied_affine_dimension": 7,
+      "graph_vertices": 2809,
+      "polar_certificate_sha256": "918a19f7b8f8575860efeafa25b457d3d6ed01d3d6111727116863b9548c4c58",
+      "first_input_line": 23,
+      "affine_dimension": 7,
+      "candidate_count": 128,
+      "stabilizer_generators": 4,
+      "graph_aut_order_scientific": [
+        96.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 4,
+          "size": 16,
+          "involutions": 335,
+          "pair_certificate_sha256": "48e3e30bfad8819a82e3a0ed1768f74e17213f77b3be2c9059c5a1e50714f9ab"
+        },
+        {
+          "Q": 17010,
+          "size": 24,
+          "involutions": 111,
+          "pair_certificate_sha256": "edd8c7bd859e51596fda6a0a9aaed6d174aabc5bc9f3bbe05d51def3460264df"
+        },
+        {
+          "Q": 17011,
+          "size": 12,
+          "involutions": 335,
+          "pair_certificate_sha256": "9cdd5f22e3372ef3fd19a34a47b622764bd7dfe0437c13479cb23f14134f5586"
+        },
+        {
+          "Q": 17078,
+          "size": 12,
+          "involutions": 79,
+          "pair_certificate_sha256": "2f145e638a3cf348d7488bc93b5bf75f68277290e48e69fe6de80b83de10c4b6"
+        },
+        {
+          "Q": 65536,
+          "size": 8,
+          "involutions": 335,
+          "pair_certificate_sha256": "180dadfd66edf9371cad701753133816933382f7d27f7097436b56757ca5d03e"
+        },
+        {
+          "Q": 73728,
+          "size": 8,
+          "involutions": 111,
+          "pair_certificate_sha256": "0bc8228a64dbd2083792b566606f172a2b1d56b897227b650e28725db8485589"
+        },
+        {
+          "Q": 82550,
+          "size": 12,
+          "involutions": 79,
+          "pair_certificate_sha256": "61d3a508208b86516104af8eb4e38da895bf396e2e4c1453527b6a47ea066d09"
+        },
+        {
+          "Q": 82551,
+          "size": 6,
+          "involutions": 111,
+          "pair_certificate_sha256": "0dcbac4f462763bf7fdba832f6c3e0304a18d2dff9c0a8d0a77e42a1a5337d83"
+        },
+        {
+          "Q": 82610,
+          "size": 6,
+          "involutions": 111,
+          "pair_certificate_sha256": "be2c41482ff70930e0f0a2bbdaebeee1100514d6bf993806007e1f8cb3dd14a0"
+        },
+        {
+          "Q": 90742,
+          "size": 12,
+          "involutions": 111,
+          "pair_certificate_sha256": "fb4405c4a389635055441988cd101201bf0b33cbe80b7d9aaeaea08ebeb41c14"
+        },
+        {
+          "Q": 90743,
+          "size": 6,
+          "involutions": 79,
+          "pair_certificate_sha256": "7beb740a508f1257c3650b28fe54b9231c34f0be9622aca7a16209615cee46c6"
+        },
+        {
+          "Q": 90802,
+          "size": 6,
+          "involutions": 335,
+          "pair_certificate_sha256": "e831ca37b209c0aa60e340594f2cd0c560276cfca09a87d96c21004b77689dfa"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 8,
+      "m": 7,
+      "r": 3,
+      "B": [
+        69,
+        262210,
+        525824
+      ],
+      "supplied_affine_dimension": 7,
+      "graph_vertices": 2809,
+      "polar_certificate_sha256": "b0537b326a17b007e70d61fafb8a0ea9352fdb917651e1b086ac2af2e2625942",
+      "first_input_line": 27,
+      "affine_dimension": 7,
+      "candidate_count": 128,
+      "stabilizer_generators": 5,
+      "graph_aut_order_scientific": [
+        384.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 0,
+          "size": 16,
+          "involutions": 335,
+          "pair_certificate_sha256": "8c000a5355ad72a83d6791db91fc7599347898a0d041fe12fbb95a58e8941c74"
+        },
+        {
+          "Q": 648,
+          "size": 24,
+          "involutions": 335,
+          "pair_certificate_sha256": "bb68fd9d81aff02d2cde73b7c78ea3faf31cc6efe3f87a0547351c4840e80dda"
+        },
+        {
+          "Q": 649,
+          "size": 48,
+          "involutions": 111,
+          "pair_certificate_sha256": "357015316ec0ab7532d57f0c4248b2c50e8ec00f6ba28a4c31db1229af72687d"
+        },
+        {
+          "Q": 658,
+          "size": 24,
+          "involutions": 79,
+          "pair_certificate_sha256": "6e8fcb9a8abe793774e6ed21fb8d6da864a30b7cab6606234b14b11b68e3d597"
+        },
+        {
+          "Q": 1114760,
+          "size": 1,
+          "involutions": 335,
+          "pair_certificate_sha256": "a190c2e604125a92771b5e025436347b7c69ec14bd15dddc96bd43c61366639c"
+        },
+        {
+          "Q": 1114761,
+          "size": 4,
+          "involutions": 111,
+          "pair_certificate_sha256": "3271dadf8353286d32bc9ca4cdcd1cca7121c77cc866531429fdca59646377ba"
+        },
+        {
+          "Q": 1114770,
+          "size": 6,
+          "involutions": 79,
+          "pair_certificate_sha256": "c6f5a5f500f2201a90111e6960e81ce73a3b9919998cdedad4ce3f1fb5ad1249"
+        },
+        {
+          "Q": 1122985,
+          "size": 4,
+          "involutions": 111,
+          "pair_certificate_sha256": "d4ab050771ae0ff135492bef1b73bcb2845b849d3db84545abae1e61c57c0450"
+        },
+        {
+          "Q": 1122994,
+          "size": 1,
+          "involutions": 335,
+          "pair_certificate_sha256": "e8a8cc22ae5bc8fcd30cc6b6289ecf0945fd826a782466d27cf59bee54c013c2"
+        }
+      ]
+    }
+  ],
+  "membership": [
+    {
+      "input_line": 1,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 2,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 3,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 4,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 5,
+      "polar_orbit": 5
+    },
+    {
+      "input_line": 6,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 7,
+      "polar_orbit": 5
+    },
+    {
+      "input_line": 8,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 9,
+      "polar_orbit": 5
+    },
+    {
+      "input_line": 10,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 11,
+      "polar_orbit": 6
+    },
+    {
+      "input_line": 12,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 13,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 14,
+      "polar_orbit": 6
+    },
+    {
+      "input_line": 15,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 16,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 17,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 18,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 19,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 20,
+      "polar_orbit": 5
+    },
+    {
+      "input_line": 21,
+      "polar_orbit": 6
+    },
+    {
+      "input_line": 22,
+      "polar_orbit": 6
+    },
+    {
+      "input_line": 23,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 24,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 25,
+      "polar_orbit": 6
+    },
+    {
+      "input_line": 26,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 27,
+      "polar_orbit": 8
+    },
+    {
+      "input_line": 28,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 29,
+      "polar_orbit": 8
+    },
+    {
+      "input_line": 30,
+      "polar_orbit": 8
+    },
+    {
+      "input_line": 31,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 32,
+      "polar_orbit": 8
+    },
+    {
+      "input_line": 33,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 34,
+      "polar_orbit": 6
+    },
+    {
+      "input_line": 35,
+      "polar_orbit": 5
+    },
+    {
+      "input_line": 36,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 37,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 38,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 39,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 40,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 41,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 42,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 43,
+      "polar_orbit": 7
+    },
+    {
+      "input_line": 44,
+      "polar_orbit": 7
+    }
+  ],
+  "total_group_orbits": 80
+}

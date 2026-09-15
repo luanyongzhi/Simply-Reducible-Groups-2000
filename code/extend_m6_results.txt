@@ -1,0 +1,13 @@
+m=6 parent_groups=51 distinct_coordinate_parent_nets=9
+Geometry initialized seconds=0.0114901
+parent_net=1 representative_id=7540510 input_groups=3 extensions=4095 MF=427 stem=256 real=256
+parent_net=2 representative_id=7535895 input_groups=5 extensions=4095 MF=43 stem=40 real=40
+parent_net=3 representative_id=7536911 input_groups=6 extensions=4095 MF=53 stem=52 real=28
+parent_net=4 representative_id=7538135 input_groups=5 extensions=4095 MF=52 stem=52 real=28
+parent_net=5 representative_id=7577399 input_groups=8 extensions=4095 MF=18 stem=18 real=2
+parent_net=6 representative_id=7606661 input_groups=4 extensions=4095 MF=0 stem=0 real=0
+parent_net=7 representative_id=7640345 input_groups=12 extensions=4095 MF=5 stem=5 real=3
+parent_net=8 representative_id=8840079 input_groups=3 extensions=4095 MF=0 stem=0 real=0
+parent_net=9 representative_id=8841562 input_groups=5 extensions=4095 MF=1 stem=1 real=1
+RESULT m=6 quotient_extensions=36855 MF_hits=599 stem_hits=424 real_hits=358 distinct_coordinate_MF_nets=596 distinct_coordinate_stem_nets=422 distinct_coordinate_SR_nets=356 affine_dimensions=6:356,
+elapsed_seconds=0.0186721

@@ -1,0 +1,44 @@
+[
+  {
+    "SmallGroup_ID": 6249567,
+    "m": 5,
+    "r": 4,
+    "B": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "Q": 0,
+    "polar_sha256": "105f4e90a95d0837dea6f2296d449678f533cc480c860c93fa2aaf746f4fe8ab",
+    "pair_sha256": "58d51949c022cd61380777e33550cd8458d1544f27f49e19d9ff0a9ce9f609d5"
+  },
+  {
+    "SmallGroup_ID": 6249622,
+    "m": 5,
+    "r": 4,
+    "B": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "Q": 541200,
+    "polar_sha256": "105f4e90a95d0837dea6f2296d449678f533cc480c860c93fa2aaf746f4fe8ab",
+    "pair_sha256": "907aabc1245bcc01a097216226d174500c3a293707d6543025d31c57140d6f22"
+  },
+  {
+    "SmallGroup_ID": 6249623,
+    "m": 5,
+    "r": 4,
+    "B": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "Q": 541201,
+    "polar_sha256": "105f4e90a95d0837dea6f2296d449678f533cc480c860c93fa2aaf746f4fe8ab",
+    "pair_sha256": "9663dc81c85ce17e6c5ef584c42455595b0f59fb83a0d79c31aeb0e66e413af0"
+  }
+]

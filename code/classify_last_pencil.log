@@ -1,0 +1,8 @@
+GAP 4.15.1; checked polar generators=15; Q candidates=256
+orbit=1 size=48 t_zero=true involutions=383
+orbit=2 size=48 t_zero=false involutions=383
+orbit=3 size=48 t_zero=false involutions=255
+orbit=4 size=96 t_zero=false involutions=191
+orbit=5 size=16 t_zero=true involutions=255
+COMPLETE: 256 refinements partition into five orbits under verified tensor aut\
+omorphisms, separated by characteristic invariants.

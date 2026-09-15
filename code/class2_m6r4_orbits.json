@@ -1,0 +1,1724 @@
+{
+  "complete_for_supplied_input": true,
+  "input": "small_forms/candidate_m6_nets.txt",
+  "input_sha256": "01b045d8c8bb76f516726d8e43c7e67afef777e1762a3a052941b87054a64731",
+  "pynauty_version": "2.8.8.1",
+  "elapsed_seconds": 5.968831551999756,
+  "polar_orbits": [
+    {
+      "polar_orbit": 1,
+      "m": 6,
+      "r": 4,
+      "B": [
+        1,
+        2,
+        4,
+        16384
+      ],
+      "supplied_affine_dimension": 6,
+      "graph_vertices": 765,
+      "polar_certificate_sha256": "dfa8a52aa7dc4daa2cfc778c6064784de54e531fa8976ec0ce1aca4422851e87",
+      "first_input_line": 1,
+      "affine_dimension": 6,
+      "candidate_count": 64,
+      "stabilizer_generators": 9,
+      "graph_aut_order_scientific": [
+        8064.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 0,
+          "size": 24,
+          "involutions": 431,
+          "pair_certificate_sha256": "48ca7e617bf110adb6e55ffa05a74852c0ad44aa27b87919f4bc750bce5609d7"
+        },
+        {
+          "Q": 16912,
+          "size": 3,
+          "involutions": 431,
+          "pair_certificate_sha256": "e88afeb59ddc42f712eb49d237f0a7fb21ffec5bb02659ce1f04cdc8a248798a"
+        },
+        {
+          "Q": 16913,
+          "size": 21,
+          "involutions": 47,
+          "pair_certificate_sha256": "6fff57442e1e41c1fea037a33b01cf44a864ca52e77788b9e5c8a41d6aa04a1a"
+        },
+        {
+          "Q": 8912896,
+          "size": 8,
+          "involutions": 143,
+          "pair_certificate_sha256": "d4f5fc7f67e41dd9b5f162105287d56391018cf11542d26278bc9946a94e9471"
+        },
+        {
+          "Q": 8929808,
+          "size": 1,
+          "involutions": 143,
+          "pair_certificate_sha256": "5ede7c315cf89846f46af308840be9a8309c9a8141694761f2ed8e0460e5afe8"
+        },
+        {
+          "Q": 8929809,
+          "size": 7,
+          "involutions": 15,
+          "pair_certificate_sha256": "7e627ec1a4ce80b033669dc0d5f1a50ee6e12118b8a831605e7815f16bdcb693"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 2,
+      "m": 6,
+      "r": 4,
+      "B": [
+        1,
+        2,
+        676,
+        4784
+      ],
+      "supplied_affine_dimension": 6,
+      "graph_vertices": 765,
+      "polar_certificate_sha256": "5daadfe3d6389beea9b0a7b9037a1e090e70f0694c7c9a8cd366ffdb59c0dccb",
+      "first_input_line": 261,
+      "affine_dimension": 6,
+      "candidate_count": 64,
+      "stabilizer_generators": 6,
+      "graph_aut_order_scientific": [
+        384.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 2,
+          "size": 6,
+          "involutions": 351,
+          "pair_certificate_sha256": "06c8663ad06693760a00d34778d8d84a078a89ae5e98ff88166173c212ee10b7"
+        },
+        {
+          "Q": 16384,
+          "size": 12,
+          "involutions": 351,
+          "pair_certificate_sha256": "7b2c876c1e779191539823fc865fc1df12236472dea53d9ff5843a6491cee918"
+        },
+        {
+          "Q": 278533,
+          "size": 12,
+          "involutions": 95,
+          "pair_certificate_sha256": "2c5e5b952b1ff7ec656ff0deb19be6ece8d33aaef116fb95485aa433e342e8d1"
+        },
+        {
+          "Q": 560326,
+          "size": 2,
+          "involutions": 95,
+          "pair_certificate_sha256": "a82e20c8b199b7c05d4eed9a791e3a65333a6e2bbac77bc998fde2405b92f97a"
+        },
+        {
+          "Q": 8389136,
+          "size": 4,
+          "involutions": 351,
+          "pair_certificate_sha256": "e3a4628c1c8b4dae98a2aa4d2c6e7087df6bcc88121e8595f125b0a8fd11483d"
+        },
+        {
+          "Q": 8389144,
+          "size": 4,
+          "involutions": 95,
+          "pair_certificate_sha256": "533a4031f76ad346d82efd560221d82957e1520091071799e4ce95367cfa1db8"
+        },
+        {
+          "Q": 8405522,
+          "size": 24,
+          "involutions": 31,
+          "pair_certificate_sha256": "48ed9883b990eee2c2a5df63dd07ae308010263b1861cef15a58997e8b01d573"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 3,
+      "m": 6,
+      "r": 4,
+      "B": [
+        1,
+        2,
+        1304,
+        672
+      ],
+      "supplied_affine_dimension": 6,
+      "graph_vertices": 765,
+      "polar_certificate_sha256": "2fc32fbf515303e01edfea218bb0634dbba6c227326ea4b104ab0371c9293c00",
+      "first_input_line": 273,
+      "affine_dimension": 6,
+      "candidate_count": 64,
+      "stabilizer_generators": 9,
+      "graph_aut_order_scientific": [
+        768.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 528,
+          "size": 8,
+          "involutions": 351,
+          "pair_certificate_sha256": "97feebe7f06234c63f6a8bb7b4d67a2a3a56b9b83b7a3412ea3e3dc3e3d6366b"
+        },
+        {
+          "Q": 295570,
+          "size": 24,
+          "involutions": 31,
+          "pair_certificate_sha256": "35eec583c019ef431cf446503715a60d4af5fe1653795653d7898035ac5b3fe7"
+        },
+        {
+          "Q": 557187,
+          "size": 12,
+          "involutions": 351,
+          "pair_certificate_sha256": "8c111d5e6f76059bacecda68de58e90fc9350dc3d479f57a8bd9483d307de757"
+        },
+        {
+          "Q": 558087,
+          "size": 12,
+          "involutions": 95,
+          "pair_certificate_sha256": "8651fb2dd79bb7a54c5b3304760ce38698b3e4c678374527bc82f66927a0389a"
+        },
+        {
+          "Q": 4227202,
+          "size": 2,
+          "involutions": 351,
+          "pair_certificate_sha256": "9c0fb955bafbe9d102ca0afe03c6626d526cb5587c01e0296c8481e015fa7a68"
+        },
+        {
+          "Q": 4227270,
+          "size": 6,
+          "involutions": 95,
+          "pair_certificate_sha256": "ff8fdc9f0e15e979f723ed56bdcc04daf6f0bd41ff63ca3d363faa70941421a7"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 4,
+      "m": 6,
+      "r": 4,
+      "B": [
+        1,
+        2,
+        4768,
+        8448
+      ],
+      "supplied_affine_dimension": 6,
+      "graph_vertices": 765,
+      "polar_certificate_sha256": "c243b7383b79e5eed25e883b70a920431750edd26f2a5386ffc4b48f70d37d31",
+      "first_input_line": 312,
+      "affine_dimension": 6,
+      "candidate_count": 64,
+      "stabilizer_generators": 8,
+      "graph_aut_order_scientific": [
+        1152.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 0,
+          "size": 16,
+          "involutions": 399,
+          "pair_certificate_sha256": "9735e2d3c89445324ee397f06952789227303e9ed415eebc5922ec37af834686"
+        },
+        {
+          "Q": 528,
+          "size": 8,
+          "involutions": 399,
+          "pair_certificate_sha256": "55e843b5271f870c31a6c7cb66333cfe1892755000a6e0d5b0c9581e363bd475"
+        },
+        {
+          "Q": 529,
+          "size": 24,
+          "involutions": 79,
+          "pair_certificate_sha256": "4be8a3f4afc306176cf94411fd467d162473b8df3adce12cea3308a2d60ad5c8"
+        },
+        {
+          "Q": 8652304,
+          "size": 1,
+          "involutions": 399,
+          "pair_certificate_sha256": "89835c8d844418ba0d581691bacac9a8f92445de2b6042c9288c57d15ff31085"
+        },
+        {
+          "Q": 8652305,
+          "size": 6,
+          "involutions": 79,
+          "pair_certificate_sha256": "971a770be16d030ca34cd55caef1af5d3a940203aaaabe941b3af9c228601139"
+        },
+        {
+          "Q": 8668753,
+          "size": 9,
+          "involutions": 15,
+          "pair_certificate_sha256": "e0848613af604d34f8069449f58a43a81b531ee78d1eb83d2db5520916ad0763"
+        }
+      ]
+    },
+    {
+      "polar_orbit": 5,
+      "m": 6,
+      "r": 4,
+      "B": [
+        6857,
+        146,
+        18380,
+        23840
+      ],
+      "supplied_affine_dimension": 6,
+      "graph_vertices": 765,
+      "polar_certificate_sha256": "bfb7bf49ac50a18b781ef89c73d2ae77c84a9efdecb2ca95c878f6d67ea8060b",
+      "first_input_line": 356,
+      "affine_dimension": 6,
+      "candidate_count": 64,
+      "stabilizer_generators": 6,
+      "graph_aut_order_scientific": [
+        2160.0,
+        0
+      ],
+      "quadratic_orbits": [
+        {
+          "Q": 50614,
+          "size": 45,
+          "involutions": 47,
+          "pair_certificate_sha256": "f05e0b67a0906b9c0ac5dee12b49856d61a45571d7b27cda637c7d3b3eae0bf8"
+        },
+        {
+          "Q": 134484,
+          "size": 18,
+          "involutions": 303,
+          "pair_certificate_sha256": "b91ba47fa9fb9bd98c63e1c274824a5add91db0c3dd912688a8ede50538acc4f"
+        },
+        {
+          "Q": 13389825,
+          "size": 1,
+          "involutions": 303,
+          "pair_certificate_sha256": "d1f2f54f5537a889b0e8057407de36db02dff14adcb35108dac39ae85905da68"
+        }
+      ]
+    }
+  ],
+  "membership": [
+    {
+      "input_line": 1,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 2,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 3,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 4,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 5,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 6,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 7,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 8,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 9,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 10,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 11,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 12,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 13,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 14,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 15,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 16,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 17,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 18,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 19,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 20,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 21,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 22,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 23,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 24,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 25,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 26,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 27,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 28,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 29,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 30,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 31,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 32,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 33,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 34,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 35,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 36,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 37,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 38,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 39,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 40,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 41,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 42,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 43,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 44,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 45,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 46,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 47,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 48,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 49,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 50,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 51,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 52,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 53,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 54,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 55,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 56,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 57,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 58,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 59,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 60,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 61,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 62,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 63,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 64,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 65,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 66,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 67,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 68,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 69,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 70,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 71,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 72,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 73,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 74,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 75,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 76,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 77,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 78,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 79,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 80,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 81,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 82,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 83,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 84,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 85,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 86,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 87,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 88,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 89,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 90,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 91,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 92,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 93,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 94,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 95,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 96,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 97,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 98,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 99,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 100,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 101,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 102,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 103,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 104,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 105,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 106,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 107,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 108,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 109,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 110,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 111,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 112,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 113,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 114,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 115,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 116,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 117,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 118,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 119,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 120,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 121,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 122,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 123,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 124,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 125,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 126,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 127,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 128,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 129,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 130,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 131,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 132,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 133,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 134,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 135,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 136,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 137,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 138,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 139,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 140,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 141,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 142,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 143,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 144,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 145,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 146,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 147,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 148,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 149,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 150,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 151,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 152,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 153,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 154,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 155,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 156,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 157,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 158,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 159,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 160,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 161,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 162,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 163,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 164,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 165,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 166,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 167,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 168,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 169,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 170,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 171,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 172,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 173,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 174,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 175,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 176,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 177,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 178,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 179,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 180,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 181,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 182,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 183,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 184,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 185,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 186,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 187,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 188,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 189,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 190,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 191,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 192,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 193,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 194,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 195,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 196,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 197,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 198,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 199,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 200,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 201,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 202,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 203,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 204,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 205,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 206,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 207,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 208,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 209,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 210,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 211,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 212,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 213,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 214,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 215,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 216,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 217,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 218,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 219,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 220,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 221,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 222,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 223,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 224,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 225,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 226,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 227,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 228,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 229,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 230,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 231,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 232,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 233,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 234,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 235,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 236,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 237,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 238,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 239,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 240,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 241,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 242,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 243,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 244,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 245,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 246,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 247,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 248,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 249,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 250,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 251,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 252,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 253,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 254,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 255,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 256,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 257,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 258,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 259,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 260,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 261,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 262,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 263,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 264,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 265,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 266,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 267,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 268,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 269,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 270,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 271,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 272,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 273,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 274,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 275,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 276,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 277,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 278,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 279,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 280,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 281,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 282,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 283,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 284,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 285,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 286,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 287,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 288,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 289,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 290,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 291,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 292,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 293,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 294,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 295,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 296,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 297,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 298,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 299,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 300,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 301,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 302,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 303,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 304,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 305,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 306,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 307,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 308,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 309,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 310,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 311,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 312,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 313,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 314,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 315,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 316,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 317,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 318,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 319,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 320,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 321,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 322,
+      "polar_orbit": 1
+    },
+    {
+      "input_line": 323,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 324,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 325,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 326,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 327,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 328,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 329,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 330,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 331,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 332,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 333,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 334,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 335,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 336,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 337,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 338,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 339,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 340,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 341,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 342,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 343,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 344,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 345,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 346,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 347,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 348,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 349,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 350,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 351,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 352,
+      "polar_orbit": 4
+    },
+    {
+      "input_line": 353,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 354,
+      "polar_orbit": 2
+    },
+    {
+      "input_line": 355,
+      "polar_orbit": 3
+    },
+    {
+      "input_line": 356,
+      "polar_orbit": 5
+    }
+  ],
+  "total_group_orbits": 28
+}

@@ -1,0 +1,360 @@
+[selftest] fast vs character-table test, all orders 2..64 ...
+[selftest] passed
+[bootstrap] order 2: 1 SR groups
+[bootstrap] order 4: 1 SR groups
+[bootstrap] order 8: 3 SR groups
+[bootstrap] order 16: 5 SR groups
+[bootstrap] order 32: 12 SR groups
+[bootstrap] order 64: 25 SR groups
+[bootstrap] order 128: 54 SR groups
+    order 256: 5000 scanned, 2 SR so far
+    order 256: 10000 scanned, 10 SR so far
+    order 256: 15000 scanned, 22 SR so far
+    order 256: 20000 scanned, 22 SR so far
+    order 256: 25000 scanned, 22 SR so far
+    order 256: 30000 scanned, 56 SR so far
+    order 256: 35000 scanned, 56 SR so far
+    order 256: 40000 scanned, 56 SR so far
+    order 256: 45000 scanned, 56 SR so far
+    order 256: 50000 scanned, 56 SR so far
+    order 256: 55000 scanned, 87 SR so far
+[bootstrap] order 256: 130 SR groups
+[bootstrap] order-128 list matches certified 54  -- audit passed
+[input] order 512: 317 SR ids loaded (expected: 317)
+[jobs] s >= 2 jobs: 223  (earlier run: 223)
+[jobs] total jobs: 539
+JOB [512,2042] step 1 ... 2 SR of 3 descendants
+JOB [512,2044] step 1 ... 0 SR of 0 descendants
+JOB [512,30599] step 1 ... 2 SR of 6 descendants
+JOB [512,30600] step 1 ... 1 SR of 4 descendants
+JOB [512,58920] step 1 ... 2 SR of 6 descendants
+JOB [512,58921] step 1 ... 0 SR of 0 descendants
+JOB [512,58926] step 1 ... 1 SR of 4 descendants
+JOB [512,60885] step 1 ... 2 SR of 6 descendants
+JOB [512,60886] step 1 ... 0 SR of 0 descendants
+JOB [512,60891] step 1 ... 1 SR of 4 descendants
+JOB [512,60898] step 1 ... 2 SR of 6 descendants
+JOB [512,60900] step 1 ... 0 SR of 0 descendants
+JOB [512,260081] step 1 ... 2 SR of 14 descendants
+JOB [512,260082] step 1 ... 1 SR of 10 descendants
+JOB [512,260243] step 1 ... 1 SR of 10 descendants
+JOB [512,398657] step 1 ... 2 SR of 14 descendants
+JOB [512,398658] step 1 ... 0 SR of 0 descendants
+JOB [512,398671] step 1 ... 1 SR of 10 descendants
+JOB [512,399715] step 1 ... 4 SR of 31 descendants
+JOB [512,399722] step 1 ... 0 SR of 0 descendants
+JOB [512,399728] step 1 ... 0 SR of 0 descendants
+JOB [512,399729] step 1 ... 0 SR of 0 descendants
+JOB [512,399970] step 1 ... 2 SR of 24 descendants
+JOB [512,399974] step 1 ... 0 SR of 0 descendants
+JOB [512,419715] step 1 ... 2 SR of 10 descendants
+JOB [512,419716] step 1 ... 0 SR of 0 descendants
+JOB [512,419725] step 1 ... 1 SR of 10 descendants
+JOB [512,420063] step 1 ... 0 SR of 0 descendants
+JOB [512,420066] step 1 ... 0 SR of 0 descendants
+JOB [512,420081] step 1 ... 0 SR of 0 descendants
+JOB [512,420084] step 1 ... 0 SR of 0 descendants
+JOB [512,420099] step 1 ... 0 SR of 0 descendants
+JOB [512,420102] step 1 ... 0 SR of 0 descendants
+JOB [512,420239] step 1 ... 2 SR of 14 descendants
+JOB [512,420240] step 1 ... 0 SR of 0 descendants
+JOB [512,420253] step 1 ... 1 SR of 10 descendants
+JOB [512,420360] step 1 ... 4 SR of 31 descendants
+JOB [512,420367] step 1 ... 0 SR of 0 descendants
+JOB [512,420384] step 1 ... 0 SR of 0 descendants
+JOB [512,420388] step 1 ... 0 SR of 0 descendants
+JOB [512,420475] step 1 ... 2 SR of 13 descendants
+JOB [512,420479] step 1 ... 0 SR of 0 descendants
+JOB [512,420505] step 1 ... 4 SR of 10 descendants
+JOB [512,420507] step 1 ... 0 SR of 0 descendants
+JOB [512,420512] step 1 ... 0 SR of 0 descendants
+JOB [512,420514] step 1 ... 0 SR of 0 descendants
+JOB [512,6249567] step 1 ... 3 SR of 42 descendants
+JOB [512,6249622] step 1 ... 2 SR of 13 descendants
+JOB [512,6249623] step 1 ... 1 SR of 17 descendants
+JOB [512,6253746] step 1 ... 3 SR of 296 descendants
+JOB [512,6253751] step 1 ... 3 SR of 296 descendants
+JOB [512,6255517] step 1 ... 0 SR of 0 descendants
+JOB [512,6255522] step 1 ... 0 SR of 0 descendants
+JOB [512,6255542] step 1 ... 0 SR of 0 descendants
+JOB [512,6255812] step 1 ... 0 SR of 0 descendants
+JOB [512,6255815] step 1 ... 0 SR of 0 descendants
+JOB [512,6255829] step 1 ... 0 SR of 0 descendants
+JOB [512,6258681] step 1 ... 0 SR of 0 descendants
+JOB [512,6258686] step 1 ... 0 SR of 0 descendants
+JOB [512,6264274] step 1 ... 4 SR of 24 descendants
+JOB [512,6264275] step 1 ... 2 SR of 17 descendants
+JOB [512,6264396] step 1 ... 2 SR of 56 descendants
+JOB [512,6264397] step 1 ... 2 SR of 56 descendants
+JOB [512,6264400] step 1 ... 0 SR of 0 descendants
+JOB [512,6265552] step 1 ... 6 SR of 90 descendants
+JOB [512,6265559] step 1 ... 4 SR of 76 descendants
+JOB [512,6265598] step 1 ... 0 SR of 0 descendants
+JOB [512,6266313] step 1 ... 2 SR of 116 descendants
+JOB [512,6266315] step 1 ... 2 SR of 116 descendants
+JOB [512,6266352] step 1 ... 0 SR of 0 descendants
+JOB [512,6266354] step 1 ... 0 SR of 0 descendants
+JOB [512,6407002] step 1 ... 0 SR of 0 descendants
+JOB [512,6407005] step 1 ... 0 SR of 0 descendants
+JOB [512,6407051] step 1 ... 0 SR of 0 descendants
+JOB [512,6407055] step 1 ... 0 SR of 0 descendants
+JOB [512,6407063] step 1 ... 5 SR of 242 descendants
+JOB [512,6407070] step 1 ... 0 SR of 0 descendants
+JOB [512,6413907] step 1 ... 0 SR of 0 descendants
+JOB [512,6413908] step 1 ... 0 SR of 0 descendants
+JOB [512,6423936] step 1 ... 0 SR of 0 descendants
+JOB [512,6423938] step 1 ... 0 SR of 0 descendants
+JOB [512,6424086] step 1 ... 0 SR of 0 descendants
+JOB [512,6424089] step 1 ... 0 SR of 0 descendants
+JOB [512,6430278] step 1 ... 0 SR of 0 descendants
+JOB [512,6438142] step 1 ... 0 SR of 0 descendants
+JOB [512,6438286] step 1 ... 0 SR of 0 descendants
+JOB [512,6480661] step 1 ... 6 SR of 136 descendants
+JOB [512,6480666] step 1 ... 0 SR of 0 descendants
+JOB [512,6480855] step 1 ... 0 SR of 0 descendants
+JOB [512,6480862] step 1 ... 0 SR of 0 descendants
+JOB [512,6480901] step 1 ... 0 SR of 0 descendants
+JOB [512,6480904] step 1 ... 0 SR of 0 descendants
+JOB [512,6480905] step 1 ... 6 SR of 316 descendants
+JOB [512,6480925] step 1 ... 0 SR of 0 descendants
+JOB [512,6480927] step 1 ... 0 SR of 0 descendants
+JOB [512,6490230] step 1 ... 4 SR of 69 descendants
+JOB [512,6490237] step 1 ... 0 SR of 0 descendants
+JOB [512,6490268] step 1 ... 4 SR of 138 descendants
+JOB [512,6490269] step 1 ... 0 SR of 0 descendants
+JOB [512,6490387] step 1 ... 0 SR of 0 descendants
+JOB [512,6490388] step 1 ... 0 SR of 0 descendants
+JOB [512,6490425] step 1 ... 3 SR of 91 descendants
+JOB [512,6490435] step 1 ... 0 SR of 0 descendants
+JOB [512,6490482] step 1 ... 2 SR of 84 descendants
+JOB [512,6490554] step 1 ... 0 SR of 0 descendants
+JOB [512,6532766] step 1 ... 0 SR of 0 descendants
+JOB [512,6532771] step 1 ... 0 SR of 0 descendants
+JOB [512,6532786] step 1 ... 2 SR of 110 descendants
+JOB [512,6533856] step 1 ... 2 SR of 56 descendants
+JOB [512,6533857] step 1 ... 0 SR of 0 descendants
+JOB [512,6533913] step 1 ... 1 SR of 34 descendants
+JOB [512,6536068] step 1 ... 0 SR of 0 descendants
+JOB [512,6536071] step 1 ... 0 SR of 0 descendants
+JOB [512,6536074] step 1 ... 0 SR of 0 descendants
+JOB [512,6536077] step 1 ... 0 SR of 0 descendants
+JOB [512,6536092] step 1 ... 4 SR of 70 descendants
+JOB [512,6536097] step 1 ... 0 SR of 0 descendants
+JOB [512,6536100] step 1 ... 0 SR of 0 descendants
+JOB [512,6538132] step 1 ... 2 SR of 24 descendants
+JOB [512,6538133] step 1 ... 0 SR of 0 descendants
+JOB [512,6538157] step 1 ... 1 SR of 26 descendants
+JOB [512,7530050] step 1 ... 6 SR of 105 descendants
+JOB [512,7530076] step 1 ... 0 SR of 0 descendants
+JOB [512,7530079] step 1 ... 0 SR of 0 descendants
+JOB [512,7530092] step 1 ... 0 SR of 0 descendants
+JOB [512,7530108] step 1 ... 0 SR of 0 descendants
+JOB [512,7530110] step 1 ... 0 SR of 0 descendants
+JOB [512,7530379] step 1 ... 4 SR of 24 descendants
+JOB [512,7530380] step 1 ... 0 SR of 0 descendants
+JOB [512,7530397] step 1 ... 0 SR of 0 descendants
+JOB [512,7530398] step 1 ... 0 SR of 0 descendants
+JOB [512,7530403] step 1 ... 2 SR of 17 descendants
+JOB [512,7530416] step 1 ... 0 SR of 0 descendants
+JOB [512,7530790] step 1 ... 8 SR of 94 descendants
+JOB [512,7530797] step 1 ... 0 SR of 0 descendants
+JOB [512,7530800] step 1 ... 0 SR of 0 descendants
+JOB [512,7530804] step 1 ... 0 SR of 0 descendants
+JOB [512,7530840] step 1 ... 0 SR of 0 descendants
+JOB [512,7530842] step 1 ... 0 SR of 0 descendants
+JOB [512,7530854] step 1 ... 0 SR of 0 descendants
+JOB [512,7530856] step 1 ... 0 SR of 0 descendants
+JOB [512,7531106] step 1 ... 3 SR of 36 descendants
+JOB [512,7531110] step 1 ... 0 SR of 0 descendants
+JOB [512,7531128] step 1 ... 0 SR of 0 descendants
+JOB [512,7532168] step 1 ... 2 SR of 56 descendants
+JOB [512,7532169] step 1 ... 0 SR of 0 descendants
+JOB [512,7532224] step 1 ... 2 SR of 56 descendants
+JOB [512,7532225] step 1 ... 0 SR of 0 descendants
+JOB [512,7532380] step 1 ... 4 SR of 13 descendants
+JOB [512,7532382] step 1 ... 0 SR of 0 descendants
+JOB [512,7532387] step 1 ... 0 SR of 0 descendants
+JOB [512,7532389] step 1 ... 0 SR of 0 descendants
+JOB [512,7535895] step 1 ... 8 SR of 390 descendants
+JOB [512,7535943] step 1 ... 2 SR of 369 descendants
+JOB [512,7536102] step 1 ... 9 SR of 685 descendants
+JOB [512,7536155] step 1 ... 1 SR of 201 descendants
+JOB [512,7536284] step 1 ... 5 SR of 608 descendants
+JOB [512,7536911] step 1 ... 22 SR of 1211 descendants
+JOB [512,7536940] step 1 ... 12 SR of 594 descendants
+JOB [512,7536941] step 1 ... 7 SR of 523 descendants
+JOB [512,7537438] step 1 ... 7 SR of 332 descendants
+JOB [512,7537457] step 1 ... 3 SR of 168 descendants
+JOB [512,7537458] step 1 ... 2 SR of 113 descendants
+JOB [512,7538135] step 1 ... 7 SR of 857 descendants
+JOB [512,7538394] step 1 ... 2 SR of 383 descendants
+JOB [512,7538415] step 1 ... 2 SR of 275 descendants
+JOB [512,7538416] step 1 ... 1 SR of 269 descendants
+JOB [512,7538445] step 1 ... 2 SR of 275 descendants
+JOB [512,7540510] step 1 ... 11 SR of 135 descendants
+JOB [512,7540544] step 1 ... 4 SR of 44 descendants
+JOB [512,7540545] step 1 ... 2 SR of 48 descendants
+JOB [512,7577399] step 1 ... 2 SR of 2919 descendants
+JOB [512,7579142] step 1 ... 2 SR of 2024 descendants
+JOB [512,7579170] step 1 ... 0 SR of 1520 descendants
+JOB [512,7579560] step 1 ... 2 SR of 2004 descendants
+JOB [512,7579947] step 1 ... 4 SR of 624 descendants
+JOB [512,7579948] step 1 ... 2 SR of 848 descendants
+JOB [512,7579952] step 1 ... 0 SR of 0 descendants
+JOB [512,7579957] step 1 ... 3 SR of 605 descendants
+JOB [512,7606661] step 1 ... 6 SR of 1456 descendants
+JOB [512,7606662] step 1 ... 4 SR of 1008 descendants
+JOB [512,7606711] step 1 ... 2 SR of 233 descendants
+JOB [512,7607280] step 1 ... 0 SR of 0 descendants
+JOB [512,7640345] step 1 ... 0 SR of 2448 descendants
+JOB [512,7640799] step 1 ... 0 SR of 2560 descendants
+JOB [512,7640967] step 1 ... 0 SR of 2496 descendants
+JOB [512,7644607] step 1 ... 2 SR of 853 descendants
+JOB [512,7644708] step 1 ... 0 SR of 1424 descendants
+JOB [512,7645035] step 1 ... 0 SR of 790 descendants
+JOB [512,7645152] step 1 ... 0 SR of 1344 descendants
+JOB [512,7645402] step 1 ... 0 SR of 0 descendants
+JOB [512,7645737] step 1 ... 0 SR of 1344 descendants
+JOB [512,7646520] step 1 ... 0 SR of 822 descendants
+JOB [512,7646542] step 1 ... 0 SR of 1456 descendants
+JOB [512,7646585] step 1 ... 0 SR of 838 descendants
+JOB [512,8840079] step 1 ... 0 SR of 0 descendants
+JOB [512,8840080] step 1 ... 0 SR of 0 descendants
+JOB [512,8840081] step 1 ... 1 SR of 5 descendants
+JOB [512,8841562] step 1 ... 2 SR of 17 descendants
+JOB [512,8841573] step 1 ... 0 SR of 0 descendants
+JOB [512,8841813] step 1 ... 0 SR of 0 descendants
+JOB [512,8841816] step 1 ... 0 SR of 0 descendants
+JOB [512,8841960] step 1 ... 0 SR of 0 descendants
+JOB [512,10482003] step 1 ... 0 SR of 0 descendants
+JOB [512,10482012] step 1 ... 0 SR of 0 descendants
+JOB [512,10482026] step 1 ... 0 SR of 0 descendants
+JOB [512,10482032] step 1 ... 0 SR of 0 descendants
+JOB [512,10482043] step 1 ... 0 SR of 0 descendants
+JOB [512,10482048] step 1 ... 0 SR of 0 descendants
+JOB [512,10482056] step 1 ... 0 SR of 0 descendants
+JOB [512,10482060] step 1 ... 0 SR of 0 descendants
+JOB [512,10482065] step 1 ... 6 SR of 89 descendants
+JOB [512,10482067] step 1 ... 0 SR of 0 descendants
+JOB [512,10482078] step 1 ... 0 SR of 0 descendants
+JOB [512,10482444] step 1 ... 0 SR of 0 descendants
+JOB [512,10482446] step 1 ... 0 SR of 0 descendants
+JOB [512,10482456] step 1 ... 4 SR of 33 descendants
+JOB [512,10482458] step 1 ... 0 SR of 0 descendants
+JOB [512,10482473] step 1 ... 0 SR of 0 descendants
+JOB [512,10482482] step 1 ... 2 SR of 24 descendants
+JOB [512,10483221] step 1 ... 12 SR of 167 descendants
+JOB [512,10483223] step 1 ... 0 SR of 0 descendants
+JOB [512,10483255] step 1 ... 0 SR of 0 descendants
+JOB [512,10483257] step 1 ... 0 SR of 0 descendants
+JOB [512,10483292] step 1 ... 0 SR of 0 descendants
+JOB [512,10483294] step 1 ... 0 SR of 0 descendants
+JOB [512,10483334] step 1 ... 0 SR of 0 descendants
+JOB [512,10483336] step 1 ... 0 SR of 0 descendants
+JOB [512,10483363] step 1 ... 0 SR of 0 descendants
+JOB [512,10483364] step 1 ... 0 SR of 0 descendants
+JOB [512,10483380] step 1 ... 0 SR of 0 descendants
+JOB [512,10483381] step 1 ... 0 SR of 0 descendants
+JOB [512,10483390] step 1 ... 5 SR of 66 descendants
+JOB [512,10483395] step 1 ... 0 SR of 0 descendants
+JOB [512,10483402] step 1 ... 0 SR of 0 descendants
+JOB [512,10483442] step 1 ... 0 SR of 0 descendants
+JOB [512,10483447] step 1 ... 0 SR of 0 descendants
+JOB [512,10484429] step 1 ... 0 SR of 0 descendants
+JOB [512,10484432] step 1 ... 0 SR of 0 descendants
+JOB [512,10484461] step 1 ... 0 SR of 0 descendants
+JOB [512,10484464] step 1 ... 0 SR of 0 descendants
+JOB [512,10484641] step 1 ... 0 SR of 0 descendants
+JOB [512,10484644] step 1 ... 0 SR of 0 descendants
+JOB [512,10485463] step 1 ... 0 SR of 0 descendants
+JOB [512,10485550] step 1 ... 0 SR of 0 descendants
+JOB [512,10485553] step 1 ... 0 SR of 0 descendants
+JOB [512,10486362] step 1 ... 4 SR of 176 descendants
+JOB [512,10486363] step 1 ... 0 SR of 0 descendants
+JOB [512,10486439] step 1 ... 0 SR of 0 descendants
+JOB [512,10486440] step 1 ... 0 SR of 0 descendants
+JOB [512,10486967] step 1 ... 3 SR of 168 descendants
+JOB [512,10486968] step 1 ... 0 SR of 0 descendants
+JOB [512,10487044] step 1 ... 0 SR of 0 descendants
+JOB [512,10490209] step 1 ... 6 SR of 466 descendants
+JOB [512,10490211] step 1 ... 0 SR of 0 descendants
+JOB [512,10490394] step 1 ... 0 SR of 0 descendants
+JOB [512,10490396] step 1 ... 0 SR of 0 descendants
+JOB [512,10490673] step 1 ... 0 SR of 0 descendants
+JOB [512,10490674] step 1 ... 0 SR of 0 descendants
+JOB [512,10491871] step 1 ... 4 SR of 314 descendants
+JOB [512,10491899] step 1 ... 0 SR of 0 descendants
+JOB [512,10492177] step 1 ... 0 SR of 0 descendants
+JOB [512,10492183] step 1 ... 0 SR of 0 descendants
+JOB [512,10493045] step 1 ... 6 SR of 17 descendants
+JOB [512,10493049] step 1 ... 0 SR of 0 descendants
+JOB [512,10493051] step 1 ... 0 SR of 0 descendants
+JOB [512,10493056] step 1 ... 0 SR of 0 descendants
+JOB [512,10493058] step 1 ... 0 SR of 0 descendants
+JOB [512,10493061] step 1 ... 0 SR of 0 descendants
+JOB [512,10493082] step 1 ... 15 SR of 102 descendants
+JOB [512,10493091] step 1 ... 6 SR of 43 descendants
+JOB [512,10493092] step 1 ... 3 SR of 31 descendants
+JOB [512,10493114] step 1 ... 16 SR of 232 descendants
+JOB [512,10493115] step 1 ... 6 SR of 95 descendants
+JOB [512,10493131] step 1 ... 0 SR of 0 descendants
+JOB [512,10493137] step 1 ... 14 SR of 680 descendants
+JOB [512,10493156] step 1 ... 5 SR of 323 descendants
+JOB [512,10493169] step 1 ... 8 SR of 331 descendants
+JOB [512,10493170] step 1 ... 0 SR of 0 descendants
+JOB [512,10493176] step 1 ... 6 SR of 315 descendants
+JOB [512,10493220] step 1 ... 10 SR of 1371 descendants
+JOB [512,10493221] step 1 ... 0 SR of 0 descendants
+JOB [512,10493237] step 1 ... 8 SR of 943 descendants
+JOB [512,10493238] step 1 ... 0 SR of 0 descendants
+JOB [512,10493262] step 1 ... 4 SR of 1982 descendants
+JOB [512,10493279] step 1 ... 4 SR of 1466 descendants
+JOB [512,10493293] step 1 ... 6 SR of 1036 descendants
+JOB [512,10493294] step 1 ... 0 SR of 0 descendants
+JOB [512,10493299] step 1 ... 5 SR of 992 descendants
+JOB [512,10493360] step 1 ... 0 SR of 0 descendants
+JOB [512,10493377] step 1 ... 0 SR of 0 descendants
+JOB [512,10493378] step 1 ... 0 SR of 0 descendants
+JOB [512,10493526] step 1 ... 0 SR of 0 descendants
+JOB [512,10493531] step 1 ... 0 SR of 0 descendants
+JOB [512,10493555] step 1 ... 0 SR of 0 descendants
+JOB [512,10493560] step 1 ... 0 SR of 0 descendants
+JOB [512,10493668] step 1 ... 0 SR of 0 descendants
+JOB [512,10493669] step 1 ... 0 SR of 0 descendants
+JOB [512,10493714] step 1 ... 0 SR of 0 descendants
+JOB [512,10493750] step 1 ... 0 SR of 0 descendants
+JOB [512,10493751] step 1 ... 0 SR of 0 descendants
+JOB [512,10493754] step 1 ... 0 SR of 0 descendants
+JOB [512,10494181] step 1 ... 6 SR of 20 descendants
+JOB [512,10494185] step 1 ... 0 SR of 0 descendants
+JOB [512,10494187] step 1 ... 0 SR of 0 descendants
+JOB [512,10494192] step 1 ... 0 SR of 0 descendants
+JOB [512,10494194] step 1 ... 0 SR of 0 descendants
+JOB [512,10494200] step 1 ... 0 SR of 0 descendants
+JOB [512,10494202] step 1 ... 8 SR of 24 descendants
+JOB [512,10494203] step 1 ... 0 SR of 0 descendants
+JOB [512,10494205] step 1 ... 0 SR of 0 descendants
+JOB [512,10494206] step 1 ... 0 SR of 0 descendants
+JOB [512,10494208] step 1 ... 0 SR of 0 descendants
+JOB [512,10494209] step 1 ... 0 SR of 0 descendants
+JOB [512,10494211] step 1 ... 0 SR of 0 descendants
+JOB [512,10494212] step 1 ... 0 SR of 0 descendants
+
+================= SUMMARY =================
+s = 1 : 474 SR groups
+s = 2 : 105 SR groups
+s = 3 : 2 SR groups
+s = 4 : 0 SR groups
+s = 5 : 0 SR groups
+s = 6 : 0 SR groups
+s = 7 : 0 SR groups
+s>=2 total (Script G proper)        : 107
+s=1  total (Stage-2 rerun; was 474) : 474
+ALL class>=3 SR groups of order 1024: 581
+failed jobs: [  ]
+Audit s=3 over [128,1599]: involution counts = [ 7, 519 ]  (predict [ 7, 519 ] = Q(C8^3), D(C8^3); Q descends from the dihedral seed, not from 1600)
+Decomposability split of hits (Omega_1(Z) vs Frattini):
+  with C2 direct factor: 221 / 581
+=================  END  ===================
+quit;
+[0m
