@@ -1,0 +1,76 @@
+{
+  "catalogue_records": {
+    "other_orders": 6210,
+    "512": 317,
+    "1536": 559,
+    "total": 7086
+  },
+  "input512_rows_match": true,
+  "job_roster_exact": true,
+  "jobs": 539,
+  "positive_jobs": 127,
+  "zero_output_jobs": 412,
+  "hits": 581,
+  "descendants": 3167745,
+  "checkpoint_csv_recordwise_match": true,
+  "per_step": [
+    {
+      "step": 1,
+      "parent_order": 512,
+      "jobs": 316,
+      "descendants": 51886,
+      "sr": 474
+    },
+    {
+      "step": 2,
+      "parent_order": 256,
+      "jobs": 129,
+      "descendants": 798367,
+      "sr": 105
+    },
+    {
+      "step": 3,
+      "parent_order": 128,
+      "jobs": 53,
+      "descendants": 2317492,
+      "sr": 2
+    },
+    {
+      "step": 4,
+      "parent_order": 64,
+      "jobs": 24,
+      "descendants": 0,
+      "sr": 0
+    },
+    {
+      "step": 5,
+      "parent_order": 32,
+      "jobs": 11,
+      "descendants": 0,
+      "sr": 0
+    },
+    {
+      "step": 6,
+      "parent_order": 16,
+      "jobs": 4,
+      "descendants": 0,
+      "sr": 0
+    },
+    {
+      "step": 7,
+      "parent_order": 8,
+      "jobs": 2,
+      "descendants": 0,
+      "sr": 0
+    }
+  ],
+  "sha256": {
+    "scriptG.g": "e28d01655adc0ff4f119822182d5003c3e5aecb769310bd71f3ff0273023e5ed",
+    "makeCSV.g": "fb2197c3b95ef4843b2e019333ddb66dd7e8ca4ffd94f681e9f9380b96fa1737",
+    "scriptG_console.FINAL.bak": "00eccd7655e78b96d9426e5ced1305648b6a26be27a396720ca86fd997b74216",
+    "scriptG_results.FINAL.bak": "059ff4c45ee30136a8b4260ea0f5d98088d2a38ada742b112cffac58a9b9f826",
+    "sr512.csv": "3469bbba19dac771640092961381fbbbe5ed72b2a81ee04bb2acf8ba347cf6f2",
+    "SR_groups_results512.csv": "3469bbba19dac771640092961381fbbbe5ed72b2a81ee04bb2acf8ba347cf6f2",
+    "sr1024_class3plus.csv": "9fdec22cbedcb3d1931cff9d349f287e23ed2a6341b33e4859f5cf5320df41e2"
+  }
+}

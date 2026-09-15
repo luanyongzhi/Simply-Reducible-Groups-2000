@@ -1,0 +1,108 @@
+{
+  "pencils": [
+    {
+      "pencil": "H310",
+      "ranks": [
+        6,
+        2,
+        8
+      ],
+      "radical_dimensions": [
+        2,
+        6,
+        0
+      ],
+      "variables": 16,
+      "coefficient_rank": 8,
+      "augmented_rank": 8,
+      "affine_dimension": 8,
+      "count": 256
+    },
+    {
+      "pencil": "H220",
+      "ranks": [
+        4,
+        4,
+        8
+      ],
+      "radical_dimensions": [
+        4,
+        4,
+        0
+      ],
+      "variables": 16,
+      "coefficient_rank": 8,
+      "augmented_rank": 8,
+      "affine_dimension": 8,
+      "count": 256
+    },
+    {
+      "pencil": "H211",
+      "ranks": [
+        6,
+        4,
+        6
+      ],
+      "radical_dimensions": [
+        2,
+        4,
+        2
+      ],
+      "variables": 16,
+      "coefficient_rank": 8,
+      "augmented_rank": 8,
+      "affine_dimension": 8,
+      "count": 256
+    },
+    {
+      "pencil": "K2H100",
+      "ranks": [
+        6,
+        4,
+        6
+      ],
+      "radical_dimensions": [
+        2,
+        4,
+        2
+      ],
+      "variables": 16,
+      "coefficient_rank": 8,
+      "augmented_rank": 8,
+      "affine_dimension": 8,
+      "count": 256
+    }
+  ],
+  "stored_certificate_checks": [
+    {
+      "source": "class2_m6r4_orbits.json",
+      "polar_orbits": 5,
+      "refinement_counts": [
+        6,
+        7,
+        6,
+        6,
+        3
+      ],
+      "group_count": 28,
+      "orbit_masses_correct": true
+    },
+    {
+      "source": "class2_m7r3_orbits.json",
+      "polar_orbits": 8,
+      "refinement_counts": [
+        7,
+        6,
+        10,
+        6,
+        18,
+        12,
+        12,
+        9
+      ],
+      "group_count": 80,
+      "orbit_masses_correct": true
+    }
+  ],
+  "note": "The four affine systems were recomputed independently in Python. The 6,4 and 7,3 results were read from and arithmetically checked against existing certificates; their orbit enumeration was not rerun."
+}

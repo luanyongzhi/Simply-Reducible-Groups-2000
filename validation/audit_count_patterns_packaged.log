@@ -1,0 +1,11 @@
+EXCEPTION [ 300, 25 ] HallOrder=75 HallStructure=(C5 x C5) : C3 SR=true
+EXCEPTION [ 1500, 37 ] HallOrder=
+375 HallStructure=((C5 x C5) : C5) : C3 SR=true
+EXCEPTION [ 1620, 422 ] HallOrder=
+405 HallStructure=(C3 x C3 x C3 x C3) : C5 SR=true
+COMPLETE 654 records: all normal odd Hall and V4 quotient; 
+651 abelian Hall; exceptions=[ [ 300, 25 ], [ 1500, 37 ], [ 1620, 422 ] ]
+A5 SR=false
+D16 exponent=8 SR=true
+
+PROCESS_EXIT=0

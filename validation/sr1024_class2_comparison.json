@@ -1,0 +1,33 @@
+{
+  "rows": 221,
+  "special": 126,
+  "non_special": 95,
+  "special_split": {
+    "6,4": 28,
+    "7,3": 80,
+    "8,2": 18
+  },
+  "match_key": [
+    "Source",
+    "SourceID"
+  ],
+  "shared_fields_compared": [
+    "CenterSize",
+    "Class",
+    "Code",
+    "DerivedLength",
+    "DerivedSize",
+    "Exponent",
+    "HasC2DirectFactor",
+    "Involutions",
+    "NrConjClasses",
+    "Order",
+    "Source",
+    "SourceID"
+  ],
+  "mismatches": [],
+  "all_matched": true,
+  "code_sets_equal": true,
+  "new_csv_sha256": "00e17b9a2dca824a9c5d50821e2e59729f2dd9de7410df26f44e063f110177ec",
+  "old_csv_sha256": "f1961cc2415a0108bff4f27d9a34ea3a1928f6c4cbabfcebc8a574a2e8e73ab5"
+}

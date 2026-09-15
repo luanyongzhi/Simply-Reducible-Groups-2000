@@ -1,0 +1,55 @@
+{
+  "revision_date": "2026-09-14",
+  "base": "SR_classification_2026-09-08",
+  "operational_scripts_containing_removed_alias": [],
+  "canonical_512_csv_sha256": "3469bbba19dac771640092961381fbbbe5ed72b2a81ee04bb2acf8ba347cf6f2",
+  "removed_duplicate_files": [
+    "code/sr512.csv",
+    "data/sr512.csv"
+  ],
+  "changed_sources": [
+    {
+      "file": "code/README_sr1024_class2.md",
+      "old_sha256": "20dfeb22efe87bd30f93f3495714297715fce447d34e3a17e22e532411fc0b81",
+      "new_sha256": "c9014f739292e21d17c7857d92cbd69803ad66030cd83c285f6b9ee0d69b4cce"
+    },
+    {
+      "file": "code/audit_census_checkpoint.py",
+      "old_sha256": "5d0e77a23bfcbe23bcd90e781355b6be470ea24de115a7b6fcf786784a60a518",
+      "new_sha256": "1ae7add97daad29cf9359d1338c67c9fbe660c5dbc67c414c4ba0374a0fa517e"
+    },
+    {
+      "file": "code/export_sr1024_class2.g",
+      "old_sha256": "5b6597d34743ac55553bd6380ab42c7c23fcb28d36953b4469ef876881838181",
+      "new_sha256": "9dc4b4b3a5ea2727140194d42012c7e56e2f773de634198795126fa6c50c52c6"
+    },
+    {
+      "file": "code/scriptG.g",
+      "old_sha256": "e28d01655adc0ff4f119822182d5003c3e5aecb769310bd71f3ff0273023e5ed",
+      "new_sha256": "0787600c0ff394395e0c2f24aec55a047aa7d6d06bb86b7b6f0d8c85d58586b3"
+    },
+    {
+      "file": "code/scriptG_reproduce.g",
+      "old_sha256": "68e76324c65c2aa6854780a9682060a0c9fca7d781e7f0b00c346f63e32eb6c0",
+      "new_sha256": "97c30b1a060620f4262450852359d62bed32fbc2506228472e7f2a70998e82ec"
+    }
+  ],
+  "added_sources": [
+    "code/read_sr1024_class3plus.g",
+    "code/counting_structures.py",
+    "code/abelian_hall_counts.py",
+    "code/verify_progressions.py"
+  ],
+  "preserved_original_files": {
+    "scriptG_results.FINAL.bak": "059ff4c45ee30136a8b4260ea0f5d98088d2a38ada742b112cffac58a9b9f826",
+    "scriptG_console.FINAL.bak": "00eccd7655e78b96d9426e5ced1305648b6a26be27a396720ca86fd997b74216",
+    "makeCSV.g": "fb2197c3b95ef4843b2e019333ddb66dd7e8ca4ffd94f681e9f9380b96fa1737"
+  },
+  "class3_csv_schema_rows_validated": 581,
+  "example_code_matches_first_published_row": true,
+  "python_syntax_checks_passed": true,
+  "python_checkpoint_and_three_arithmetic_scripts_executed_successfully": true,
+  "gap_reconstruction_helper_execution": "not run: GAP unavailable; static inspection only",
+  "full_searches_rerun": false,
+  "historical_logs_preserved": true
+}

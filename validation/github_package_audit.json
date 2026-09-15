@@ -1,0 +1,110 @@
+{
+  "package_date": "2026-09-15",
+  "manuscript_sha256": "e3dc8fdc4c2ddb7aa02f4153a40af2d01f08851edc2f97b851b9964e7fe88fe7",
+  "referenced_file_count": 30,
+  "missing_referenced_files": [],
+  "referenced_files": {
+    "SR_groups_results1024.csv": [
+      "data/SR_groups_results1024.csv"
+    ],
+    "SR_groups_results1536.csv": [
+      "data/SR_groups_results1536.csv"
+    ],
+    "SR_groups_results2_2000.csv": [
+      "data/SR_groups_results2_2000.csv"
+    ],
+    "SR_groups_results512.csv": [
+      "data/SR_groups_results512.csv"
+    ],
+    "abelian_hall_counts.py": [
+      "code/abelian_hall_counts.py"
+    ],
+    "audit_count_patterns.g": [
+      "code/audit_count_patterns.g"
+    ],
+    "audited_class2.csv": [
+      "code/audited_class2.csv"
+    ],
+    "canonical_class2.py": [
+      "code/canonical_class2.py"
+    ],
+    "classify_last_pencil.g": [
+      "code/classify_last_pencil.g"
+    ],
+    "counting_structures.py": [
+      "code/counting_structures.py"
+    ],
+    "export_sr1024_class2.g": [
+      "code/export_sr1024_class2.g"
+    ],
+    "extend_parents.cpp": [
+      "code/extend_parents.cpp"
+    ],
+    "f_of_n.csv": [
+      "data/f_of_n.csv"
+    ],
+    "last_pencil_orbits.csv": [
+      "code/last_pencil_orbits.csv"
+    ],
+    "makeCSV.g": [
+      "code/makeCSV.g"
+    ],
+    "mf_small.cpp": [
+      "code/mf_small.cpp"
+    ],
+    "parent_subgroup_orbits.cpp": [
+      "code/parent_subgroup_orbits.cpp"
+    ],
+    "read_sr1024_class3plus.g": [
+      "code/read_sr1024_class3plus.g"
+    ],
+    "review_small_forms.py": [
+      "code/review_small_forms.py"
+    ],
+    "scriptG.g": [
+      "code/scriptG.g"
+    ],
+    "scriptG_console.FINAL.bak": [
+      "code/scriptG_console.FINAL.bak"
+    ],
+    "scriptG_results.FINAL.bak": [
+      "code/scriptG_results.FINAL.bak"
+    ],
+    "sr1024_class2.csv": [
+      "data/sr1024_class2.csv",
+      "code/sr1024_class2.csv"
+    ],
+    "sr1024_class3plus.csv": [
+      "data/sr1024_class3plus.csv"
+    ],
+    "sr1024_special_representatives.g": [
+      "code/sr1024_special_representatives.g"
+    ],
+    "sr_class2.g": [
+      "code/sr_class2.g"
+    ],
+    "sr_search1536.g": [
+      "code/sr_search1536.g"
+    ],
+    "sr_search2_2000.g": [
+      "code/sr_search2_2000.g"
+    ],
+    "sr_search512.g": [
+      "code/sr_search512.g"
+    ],
+    "verify_progressions.py": [
+      "code/verify_progressions.py"
+    ]
+  },
+  "all_csv_files_unchanged": true,
+  "published_csv_rows": {
+    "SR_groups_results1024.csv": 803,
+    "SR_groups_results1536.csv": 559,
+    "SR_groups_results2_2000.csv": 6210,
+    "SR_groups_results512.csv": 317,
+    "f_of_n.csv": 1000,
+    "sr1024_class2.csv": 221,
+    "sr1024_class3plus.csv": 581
+  },
+  "count_table_input": "data/f_table_body.tex"
+}

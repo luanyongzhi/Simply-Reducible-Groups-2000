@@ -1,0 +1,129 @@
+{
+  "bound": 2000,
+  "input_sha256": "62780838b48d60427a7a2aee1c1cc66d2081ecb6a3902fcd4416b5d21142407a",
+  "subclass_total_nontrivial": 1880,
+  "census_total": 7889,
+  "all_baselines_at_most_census": true,
+  "multiset_product_equals_cycle_index_at_every_order": true,
+  "twice_odd_formulas_checked": 500,
+  "four_times_odd_formulas_checked": 250,
+  "minimal_even_circuit": {
+    "group_order": 648,
+    "lambda_orbit": 8,
+    "mu_orbit": 4,
+    "nu_orbit": 8,
+    "tensor_multiplicity": 2
+  },
+  "examples": {
+    "6": {
+      "B": 1,
+      "f": 1
+    },
+    "18": {
+      "B": 2,
+      "f": 2
+    },
+    "36": {
+      "B": 3,
+      "f": 3
+    },
+    "60": {
+      "B": 2,
+      "f": 2
+    },
+    "72": {
+      "B": 3,
+      "f": 8
+    },
+    "108": {
+      "B": 5,
+      "f": 5
+    },
+    "120": {
+      "B": 2,
+      "f": 4
+    },
+    "180": {
+      "B": 5,
+      "f": 5
+    },
+    "216": {
+      "B": 6,
+      "f": 13
+    },
+    "300": {
+      "B": 5,
+      "f": 6
+    },
+    "360": {
+      "B": 6,
+      "f": 10
+    },
+    "648": {
+      "B": 13,
+      "f": 23
+    },
+    "840": {
+      "B": 5,
+      "f": 7
+    },
+    "1024": {
+      "B": 1,
+      "f": 803
+    },
+    "1500": {
+      "B": 10,
+      "f": 11
+    },
+    "1620": {
+      "B": 20,
+      "f": 21
+    },
+    "2000": {
+      "B": 6,
+      "f": 32
+    }
+  },
+  "by_v2": {
+    "1": {
+      "subclass": 649,
+      "census": 649
+    },
+    "2": {
+      "subclass": 651,
+      "census": 654
+    },
+    "3": {
+      "subclass": 337,
+      "census": 669
+    },
+    "4": {
+      "subclass": 143,
+      "census": 857
+    },
+    "5": {
+      "subclass": 55,
+      "census": 782
+    },
+    "6": {
+      "subclass": 27,
+      "census": 939
+    },
+    "7": {
+      "subclass": 11,
+      "census": 904
+    },
+    "8": {
+      "subclass": 4,
+      "census": 756
+    },
+    "9": {
+      "subclass": 2,
+      "census": 876
+    },
+    "10": {
+      "subclass": 1,
+      "census": 803
+    }
+  }
+}

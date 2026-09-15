@@ -1,0 +1,82 @@
+[
+  {
+    "family": "affine",
+    "q": 5,
+    "m": 75,
+    "n": 300,
+    "baseline": 5,
+    "proved_lower_bound": 6
+  },
+  {
+    "family": "heisenberg",
+    "q": 5,
+    "m": 375,
+    "n": 1500,
+    "baseline": 10,
+    "proved_lower_bound": 11
+  },
+  {
+    "family": "affine",
+    "q": 9,
+    "m": 405,
+    "n": 1620,
+    "baseline": 20,
+    "proved_lower_bound": 21
+  },
+  {
+    "family": "heisenberg",
+    "q": 9,
+    "m": 3645,
+    "n": 14580,
+    "baseline": 65,
+    "proved_lower_bound": 66
+  },
+  {
+    "family": "affine",
+    "q": 13,
+    "m": 1183,
+    "n": 4732,
+    "baseline": 5,
+    "proved_lower_bound": 6
+  },
+  {
+    "family": "heisenberg",
+    "q": 13,
+    "m": 15379,
+    "n": 61516,
+    "baseline": 10,
+    "proved_lower_bound": 11
+  },
+  {
+    "family": "affine",
+    "q": 17,
+    "m": 2601,
+    "n": 10404,
+    "baseline": 13,
+    "proved_lower_bound": 14
+  },
+  {
+    "family": "heisenberg",
+    "q": 17,
+    "m": 44217,
+    "n": 176868,
+    "baseline": 25,
+    "proved_lower_bound": 26
+  },
+  {
+    "family": "affine",
+    "q": 25,
+    "m": 8125,
+    "n": 32500,
+    "baseline": 20,
+    "proved_lower_bound": 21
+  },
+  {
+    "family": "heisenberg",
+    "q": 25,
+    "m": 203125,
+    "n": 812500,
+    "baseline": 65,
+    "proved_lower_bound": 66
+  }
+]

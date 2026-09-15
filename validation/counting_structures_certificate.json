@@ -1,0 +1,131 @@
+{
+  "input_sha256": "62780838b48d60427a7a2aee1c1cc66d2081ecb6a3902fcd4416b5d21142407a",
+  "limit": 2000,
+  "formal_euler_reconstruction": true,
+  "independent_formal_log_check": true,
+  "all_lower_bounds_valid": true,
+  "sr_nontrivial_total": 7889,
+  "indecomposable_nontrivial_total": 2806,
+  "decomposable_nontrivial_total": 5083,
+  "pure_two_power_counts": [
+    {
+      "order": 2,
+      "sr": 1,
+      "indecomposable": 1
+    },
+    {
+      "order": 4,
+      "sr": 1,
+      "indecomposable": 0
+    },
+    {
+      "order": 8,
+      "sr": 3,
+      "indecomposable": 2
+    },
+    {
+      "order": 16,
+      "sr": 5,
+      "indecomposable": 2
+    },
+    {
+      "order": 32,
+      "sr": 12,
+      "indecomposable": 7
+    },
+    {
+      "order": 64,
+      "sr": 25,
+      "indecomposable": 10
+    },
+    {
+      "order": 128,
+      "sr": 54,
+      "indecomposable": 25
+    },
+    {
+      "order": 256,
+      "sr": 130,
+      "indecomposable": 59
+    },
+    {
+      "order": 512,
+      "sr": 317,
+      "indecomposable": 149
+    },
+    {
+      "order": 1024,
+      "sr": 803,
+      "indecomposable": 382
+    }
+  ],
+  "dihedral_product_subclass_total": 1880,
+  "two_group_dihedral_product_subclass_total": 4292,
+  "dihedral_baseline_exact_orders": 747,
+  "strengthened_bound_exact_orders": 755,
+  "generalized_dihedral_bound_exact_orders": 595,
+  "class2_inputs_sha256": {
+    "audited_class2.csv": "5454223d365930bfdd09a4b821416564e544dea573d4dd20d5fc112625b2f476",
+    "sr1024_class2.csv": "00e17b9a2dca824a9c5d50821e2e59729f2dd9de7410df26f44e063f110177ec"
+  },
+  "class_at_most_two_independent_formal_log_check": true,
+  "class2_directly_indecomposable": [
+    {
+      "order": 2,
+      "class2_count": 0,
+      "class2_indecomposable": 0
+    },
+    {
+      "order": 4,
+      "class2_count": 0,
+      "class2_indecomposable": 0
+    },
+    {
+      "order": 8,
+      "class2_count": 2,
+      "class2_indecomposable": 2
+    },
+    {
+      "order": 16,
+      "class2_count": 2,
+      "class2_indecomposable": 0
+    },
+    {
+      "order": 32,
+      "class2_count": 7,
+      "class2_indecomposable": 5
+    },
+    {
+      "order": 64,
+      "class2_count": 10,
+      "class2_indecomposable": 0
+    },
+    {
+      "order": 128,
+      "class2_count": 20,
+      "class2_indecomposable": 10
+    },
+    {
+      "order": 256,
+      "class2_count": 42,
+      "class2_indecomposable": 12
+    },
+    {
+      "order": 512,
+      "class2_count": 95,
+      "class2_indecomposable": 49
+    },
+    {
+      "order": 1024,
+      "class2_count": 221,
+      "class2_indecomposable": 91
+    }
+  ],
+  "special_1024": {
+    "total": 126,
+    "indecomposable": 91,
+    "decomposable": 35,
+    "product_8_times_128": 20,
+    "product_32_times_32": 15
+  }
+}
